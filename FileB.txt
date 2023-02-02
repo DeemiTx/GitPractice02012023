@@ -1,1 +1,2 @@
-Thi si file B
+This is file B
+Made a change to FileB for github
